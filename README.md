@@ -1,4 +1,8 @@
-## Hi there 👋
+## Ciao!
+
+I'm Luca, and I have too many online profiles to keep them properly updated. Don't you?
+
+So, if you're so inclined, please check out [https://lucainvernizzi.net](my web site) for up-to-date info about me :)
 
 <!--
 **invernizzi/invernizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
