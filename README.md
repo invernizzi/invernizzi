@@ -1,8 +1,8 @@
-## Ciao!
+## Ciao! :vulcan_salute:
 
-I'm Luca, and I have too many online profiles to keep them properly updated. Don't you?
+I'm Luca, and I have way too many online profiles to keep them properly updated. Don't you?
 
-So, if you're so inclined, please check out [https://lucainvernizzi.net](my web site) for up-to-date info about me :)
+So, if you're so inclined, please check out [my web site](https://lucainvernizzi.net) for up-to-date info about me. See you there!
 
 <!--
 **invernizzi/invernizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
